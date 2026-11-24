@@ -7,6 +7,7 @@
     <img alt="Android 10+" src="https://img.shields.io/badge/Android-10%2B-7452B3" />
     <img alt="Android Gradle Plugin 9.0.0" src="https://img.shields.io/badge/AGP-9.0.0-4285F4" />
     <img alt="Version 1.0.0" src="https://img.shields.io/badge/Version-1.0.0-0F766E" />
+    <a href="LICENSE"><img alt="The Unlicense" src="https://img.shields.io/badge/License-Unlicense-7452B3" /></a>
   </p>
   <p><a href="README_EN.md">English</a> · <a href="https://github.com/rurikacy/RQuickIME/releases/tag/v1.0.0">下载 v1.0.0</a></p>
 </div>
