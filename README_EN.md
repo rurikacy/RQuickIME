@@ -24,8 +24,6 @@
 
 Android discovers the Kotlin tile service through its manifest declaration. When you tap the tile, the service calls `startActivityAndCollapse()` to close Quick Settings and open a transparent activity. Once its input field establishes an input connection, the activity calls `InputMethodManager.showInputMethodPicker()`. Android handles keyboard selection. The app requires no root access, ADB authorization, or accessibility service.
 
-Adding the tile and opening the system picker were tested on an API 37 emulator. Redmi K80 and HyperOS behavior still needs verification on a physical device.
-
 ## Build
 
 Open the project in Android Studio with JDK 17, Android SDK Platform 36, and Build-Tools 36.0.0. From the project root, run `.\gradlew.bat assembleDebug` on Windows or `sh gradlew assembleDebug` on macOS or Linux. The debug APK is written to `app/build/outputs/apk/debug/app-debug.apk`.
