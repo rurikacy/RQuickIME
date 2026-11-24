@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RQuickIME</string>
+    <string name="tile_name">切换输入法</string>
+    <string name="intro">将本应用的「切换输入法」快捷按钮添加到手机控制中心，即可快速选择输入法。</string>
+    <string name="settings">打开系统输入法设置</string>
+    <string name="guide">使用说明</string>
+    <string name="steps">1. 在系统输入法设置中启用要使用的键盘。\n\n2. 下拉控制中心，点「编辑」，找到键盘图标「切换输入法」，添加并保存。\n\n3. 输入文字时，下拉控制中心并点击该按钮，在系统弹窗中选择键盘。</string>
+    <string name="request_tile">请求添加到控制中心</string>
+    <string name="already_added">已添加「切换输入法」</string>
+    <string name="use_edit">可在控制中心的「编辑」列表中手动添加。</string>
+    <string name="settings_missing">请在系统设置中搜索「输入法」。</string>
+    <string name="picker_missing">若未显示选择窗口，请在系统输入法设置中检查已启用的键盘。</string>
+</resources>

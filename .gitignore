@@ -1,0 +1,20 @@
+.gradle/
+.kotlin/
+.idea/
+**/build/
+local.properties
+*.iml
+/.codegraph
+
+# Android packages and local signing material
+*.apk
+*.aab
+*.idsig
+*.jks
+*.keystore
+*.p12
+keystore.properties
+signing.properties
+*ANDROID_APP_RELEASE.json
+.env
+.env.*
